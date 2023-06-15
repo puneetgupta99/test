@@ -23,7 +23,7 @@ public class UserService {
     private RoleRepository roleRepository;
 
     //get user by email
-    public UserModel getUserByEmail(String email){
+    public UserModel getUserByEmail(Sthring email){
         return null;
     }
 
